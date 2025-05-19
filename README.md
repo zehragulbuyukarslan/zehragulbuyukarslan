@@ -1,5 +1,5 @@
-<h1 align="center">Hi! 👋, This is Zehra </h1>
-<h3 align="center">I am interested in Blockchain, Artificial Intelligence and Data Analyse</h3>
+<h1 align="center">Hi! 👋 This is Zehra </h1>
+<h2> I am interested in Blockchain, Artificial Intelligence and Data Analysis</h2>
 
 - 🔭 Currently I improve myself at **machine lernings, smart contracts and data visualization** 
 
