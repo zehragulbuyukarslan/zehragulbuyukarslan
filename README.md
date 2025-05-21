@@ -1,11 +1,11 @@
-<h1> Hi! 👋 This is Zehra </h1>
-<h2> I am interested in Blockchain, Artificial Intelligence and Data Analysis</h2>
+<h1> Hey, This is Zehra! 👋 </h1>
+<h2> I am interested in artificial intelligence, blockchain, and data analysis</h2>
 
 - 🔭 Currently I improve myself at the fields of **machine lernings, smart contracts and data visualization** 
 
 - 👨‍💻 Reach my projects by the address: [GitHub profile](https://github.com/zehragulbuyukarslan)
 
-- 💬 I have experiences on C, Python and Java 
+- 💬 I have experiences on C, Python and Java languages
 
 - 📫 How to reach me: **zgbarslan@gmail.com**
 
