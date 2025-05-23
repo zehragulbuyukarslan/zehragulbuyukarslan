@@ -1,5 +1,5 @@
 <h1> Hey, This is Zehra! 👋 </h1>
-<h2> I am interested in artificial intelligence, blockchain, and data analysis</h2>
+<h3> I am interested in artificial intelligence, blockchain, and data analysis</h3>
 
 - 🔭 Currently I improve myself at the fields of **machine lernings, smart contracts and data visualization** 
 
@@ -7,7 +7,7 @@
 
 - 💬 I have experiences on C, Python and Java languages
 
-- 📫 How to reach me: **zgbarslan@gmail.com**
+- 📫 How to reach me: **zgbuyukarslan@icloud.com**
 
 ---
 
@@ -35,6 +35,5 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/zehragulbuyukarslan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-  <!-- Diğer sosyal medya linklerin varsa buraya ekleyebilirim -->
 </p>
 
