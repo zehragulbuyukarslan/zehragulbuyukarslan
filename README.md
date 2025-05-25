@@ -34,8 +34,7 @@
 ---
 
 ### 🌐 Soscial Media
+<p align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg alt="linkedin" width="30" height="30 />
 <img src="https://raw.githubusercontent.com/zehragulbuyukarslan/icon_collection/main/gifs/medium0.gif" alt="medium" width="30" height="30" />
-
-
-
+</p>
