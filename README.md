@@ -37,7 +37,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/zehragulbuyukarslan/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" />
-  </a>
+  
   <a href="https://zehragulbuyukarslan.medium.com/">
     <img src="https://raw.githubusercontent.com/zehragulbuyukarslan/icon_collection/main/gifs/medium0.gif" alt="Medium" width="150" height="100"/>
   </a>
