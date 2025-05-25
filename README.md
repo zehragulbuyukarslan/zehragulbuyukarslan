@@ -1,8 +1,8 @@
-<h1>   Hey, this is Zehra! 👋 </h1>
+<h2> Hey, this is Zehra! 👋 </h2>
 
 ---
 
-<h3>   I am interested in artificial intelligence, blockchain, and data analysis</h3>
+<h3> I am interested in artificial intelligence, blockchain, and data analysis </h3>
 
 - 🔭 Currently I improve myself at the fields of machine lernings, smart contracts and data visualization
 
