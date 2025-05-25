@@ -34,7 +34,8 @@
 ---
 
 ### 🌐 Soscial Media
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/zehragulbuyukarslan/)
-[![Medium](https://raw.githubusercontent.com/zehragulbuyukarslan/icon_collection/main/gifs/medium0.gif)](https://zehragulbuyukarslan.medium.com/)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg alt="linkedin" width="30" height="30 />
+<img src="https://raw.githubusercontent.com/zehragulbuyukarslan/icon_collection/main/gifs/medium0.gif" alt="medium" width="30" height="30" />
+
 
 
