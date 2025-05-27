@@ -1,7 +1,5 @@
 <h2> Hey, this is Zehra! 👋 </h2>
 
----
-
 <h3> I am interested in artificial intelligence, blockchain, and data analysis </h3>
 
 - 🔭 Currently I improve myself at the fields of machine lernings, smart contracts and data visualization
@@ -29,8 +27,9 @@
 ### 📊 GitHub Statistics:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zehragulbuyukarslan&show_icons=true&theme=tokyonight" alt="github stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zehragulbuyukarslan&theme=tokyonight" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zehragulbuyukarslan&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zehragulbuyukarslan&theme=radical" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehragulbuyukarslan&layout=compact&theme=radical"/>
 </p>
 
 ---
