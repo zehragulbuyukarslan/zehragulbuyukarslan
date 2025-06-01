@@ -1,6 +1,6 @@
 <h2> Hey, this is Zehra! 👋 </h2>
 
-<h3> I am interested in artificial intelligence, blockchain, and data analysis </h3>
+- **I am interested in Artificial Intelligence, blockchain, data analysis and web/mobile development**
 
 - 🔭 Currently I improve myself at the fields of machine lernings, smart contracts and data visualization
 
@@ -53,3 +53,10 @@
 </p>
 
 ---
+
+### Hey! If you're looking for a developer for your next project, you can find me on:
+
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/zehragulb)
+
+---
+
