@@ -5,8 +5,8 @@
 - 🔭 Currently I improve myself at the fields of machine lernings, smart contracts and data visualization
 
 - 💬 I have experiences on C, Python and Java languages
-
-- 📫 How to reach me: **zgbuyukarslan@icloud.com**
+  
+- 👯 I’m open to collaborate on open source, hackathons, and freelance projects.
 
 ---
 
@@ -34,14 +34,21 @@
 
 ---
 
-### 🌐 Soscial Media
+### 🌐 Connect With Me
 <p align="left">
-    <a href="https://www.linkedin.com/in/zehragulbuyukarslan/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="40"/>
-      <a/>
-      <br/>
-  <a href="https://zehragulbuyukarslan.medium.com/">
-    <img src="https://raw.githubusercontent.com/zehragulbuyukarslan/icon_collection/main/gifs/medium0.gif" alt="Medium" width="150" height="100"/>
+    <a
+      href="https://www.linkedin.com/in/zehragulbuyukarslan/">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="40"/>
+    <a/>
+    <br/>
+    <a
+      href="https://zehragulbuyukarslan.medium.com/">
+      <img src="https://raw.githubusercontent.com/zehragulbuyukarslan/icon_collection/main/gifs/medium0.gif" alt="Medium" width="150" height="100"/>
+    <a/>
+    <br/>
+    <a
+      href="https://github.com/zehragulbuyukarslan/">
+      <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="90" height="35"/>
     <a/>
 </p>
 
