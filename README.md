@@ -49,6 +49,7 @@
     <a
       href="https://zehragulbuyukarslan.medium.com/">
       <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/medium2.gif" alt="Medium" width="150" height="50"/>
+
     <a/>
     
 </p>
