@@ -1,10 +1,10 @@
-<h2> Hey, this is Zehra! 👋 </h2>
+<h2 align="left">   Hey, this is Zehra! 👋 Welcome to my GitHub! </h2>
 
-- **I am interested in Artificial Intelligence, blockchain, data analysis and web/mobile development**
+- **I am interested in Artificial Intelligence, blockchain, data analysis and web/mobile development.** <img align="right" src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/octacat-github.gif" alt="github" width="150" height="150"/>
 
-- 🔭 Currently I improve myself at the fields of machine lernings, smart contracts and data visualization
+- 🔭 Currently I improve myself at the fields of machine lernings, smart contracts and data visualization. 
 
-- 💬 I have experiences on C, Python and Java languages
+- 💬 I have experiences on C, Python and Java languages.
   
 - 👯 I’m open to collaborate on open source, hackathons, and freelance projects.
 
