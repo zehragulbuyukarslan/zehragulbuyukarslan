@@ -2,15 +2,15 @@
 
 - **I am interested in Artificial Intelligence, blockchain, data analysis and web/mobile development.** <img align="right" src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/octacat-github.gif" alt="github" width="150" height="150"/>
 
-- 🔭 Currently I improve myself at the fields of machine lernings, smart contracts and data visualization. 
+- 🔭 I am currently improving myself at the fields of machine learnings, smart contracts and data visualization. 
 
-- 💬 I have experiences on C, Python and Java languages.
+- 💬 I have experiences with C, Python and Java languages.
   
 - 👯 I’m open to collaborate on open source, hackathons, and freelance projects.
 
 ---
 
-### 🚀 Techs that I use:
+### 🚀 Technologies I use:
 
 <p align="left">
   
@@ -18,8 +18,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/png/database.png" alt=sql width="40" height="40">
-  
+  <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/png/database.png" alt=sql width="40" height="40">  
 </p>
 
 ---
