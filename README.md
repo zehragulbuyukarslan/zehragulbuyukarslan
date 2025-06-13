@@ -37,7 +37,7 @@
 <p align="left">
     <a
       href="https://github.com/zehragulbuyukarslan/">
-      <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="110" height="35"/>
+      <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/svg/github.svg" alt="GitHub" width="110" height="35"/>
     <a/>
       <br/>
     <a
