@@ -1,4 +1,4 @@
-<h2 align="left"> <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/hand-waving.gif" alt="handwave" width="30" height="30"/> Hey, this is Zehra! Welcome to my GitHub!  <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/pink-sakura.gif" width="30" height="30"/> </h2>
+<h2 align="left"> Hey, this is Zehra! Welcome to my GitHub!  <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/pink-sakura.gif" width="30" height="30"/> </h2>
 
 - **I am interested in Artificial Intelligence, blockchain, data analysis and web/mobile development.** <img align="right" src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/octacat-github.gif" alt="github" width="150" height="150"/>
 
@@ -42,7 +42,7 @@
       <br/>
     <a
       href="https://www.linkedin.com/in/zehragulbuyukarslan/">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="40"/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="35"/>
     <a/>
     <br/>
     <a
