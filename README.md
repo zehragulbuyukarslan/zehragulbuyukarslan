@@ -47,7 +47,7 @@
     <br/>
     <a
       href="https://zehragulbuyukarslan.medium.com/">
-      <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/medium1.gif" alt="Medium" width="140" height="30"/>
+      <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/medium1.gif" alt="Medium" width="117" height="25"/>
     <a/>
     
 </p>
@@ -58,7 +58,7 @@
 
 <a
       href="https://www.freelancer.com/u/zehragulb">
-      <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="freelancer"/>
+      <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="freelancer" width="130" height="35"/>
     <a/>
 
 ---
