@@ -58,7 +58,7 @@
 
 <a
       href="https://www.freelancer.com/u/zehragulb">
-      <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="freelancer" width="130" height="35"/>
+      <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/jpg/freelancer2.jpg" alt="freelancer" height="35"/>
     <a/>
 
 ---
