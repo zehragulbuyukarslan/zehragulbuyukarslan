@@ -47,7 +47,7 @@
     <br/>
     <a
       href="https://zehragulbuyukarslan.medium.com/">
-      <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/medium1.gif" alt="Medium" width="110" height="25"/>
+     <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/png/medium1.png" alt="Medium" width="110" height="25"/>
     <a/>
     
 </p>
