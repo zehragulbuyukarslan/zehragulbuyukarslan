@@ -42,12 +42,12 @@
       <br/>
     <a
       href="https://www.linkedin.com/in/zehragulbuyukarslan/">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="35"/>
+      <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/png/linkedIn.png" alt="LinkedIn" width="110"/>
     <a/>
     <br/>
     <a
       href="https://zehragulbuyukarslan.medium.com/">
-      <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/medium1.gif" alt="Medium" width="117" height="25"/>
+      <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/medium1.gif" alt="Medium" width="110" height="25"/>
     <a/>
     
 </p>
@@ -58,7 +58,7 @@
 
 <a
       href="https://www.freelancer.com/u/zehragulb">
-      <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/jpg/freelancer2.jpg" alt="freelancer" height="35"/>
+      <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/jpg/freelancer2.jpg" alt="freelancer" width="110"/>
     <a/>
 
 ---
