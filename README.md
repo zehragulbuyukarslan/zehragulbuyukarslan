@@ -1,16 +1,19 @@
-<h2 align="left"> Hey, this is Zehra! Welcome to my GitHub!  <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/pink-sakura.gif" width="30" height="30"/> </h2>
+<h2 align="left">Hey, this is Zehra! Welcome to my GitHub!  <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/pink-sakura.gif" width="30" height="30"/> </h2>
 
-- **I am interested in Artificial Intelligence, blockchain, data analysis and web/mobile development.** <img align="right" src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/octacat-github.gif" alt="github" width="150" height="150"/>
+<h2> Interests </h2>  <img align="right" src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/octacat-github.gif" alt="github" width="150" height="150"/>
 
-- 🔭 I am currently improving myself at the fields of machine learnings, smart contracts and data visualization. 
+- Artificial Intelligence
+- blockchain
+- data analysis
+- web/mobile development.
 
-- 💬 I have experiences with C, Python and Java languages.
-  
-- 👯 I’m open to collaborate on open source, hackathons, and freelance projects.
+## Improving
+- Machine learnings
+- smart contracts
+- data visualization.
+- I’m open to collaborate on open source, hackathons, and freelance projects.
 
----
-
-### 🚀 Technologies I use:
+## Technologies
 
 <p align="left">
   
@@ -18,22 +21,24 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/svg/github-mark.svg" alt="github" width="40" height="40"/>
-  <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/png/database.png" alt=sql width="40" height="40">  
+  <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/png/database.png" alt=sql width="40" height="40">
+
 </p>
 
----
 
-### 📊 GitHub Statistics:
 
-<p align="left">
+## 📊 GitHub Statistics
+
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=zehragulbuyukarslan&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zehragulbuyukarslan&theme=radical" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehragulbuyukarslan&layout=compact&theme=radical"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zehragulbuyukarslan&theme=radical" alt="streak stats"/>   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehragulbuyukarslan&layout=compact&theme=radical"/>
+
+  
 </p>
 
----
 
-### 🌐 Connect With Me
+## Connect With Me
 <p align="left">
     <a
       href="https://github.com/zehragulbuyukarslan/">
