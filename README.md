@@ -52,7 +52,7 @@
     <br/>
     <a
       href="https://zehragulbuyukarslan.medium.com/">
-     <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/png/medium1.png" alt="Medium" width="110" height="22"/>
+     <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/png/medium1.png" alt="Medium" width="110" height="20"/>
     <a/>
     
 </p>
