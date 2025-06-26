@@ -3,14 +3,14 @@
 <h2> Interests </h2>  <img align="right" src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/octacat-github.gif" alt="github" width="150" height="150"/>
 
 - Artificial Intelligence
-- blockchain
-- data analysis
-- web/mobile development.
+- Blockchain
+- Data analysis
+- Web/mobile development.
 
 ## Improving
 - Machine learnings
-- smart contracts
-- data visualization.
+- Smart contracts
+- Data visualization.
 - I’m open to collaborate on open source, hackathons, and freelance projects.
 
 ## Technologies
