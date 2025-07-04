@@ -62,7 +62,7 @@
 ### Hey! If you're looking for a developer for your next project, you can find me on:
 
 <a
-      href="https://www.freelancer.com/u/zehragulb">
+      href="https://www.freelancer.com/u/zehragulb" target="_blank">
       <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/jpg/freelancer2.jpg" alt="freelancer" height="35" width="110" />
     <a/>
 
