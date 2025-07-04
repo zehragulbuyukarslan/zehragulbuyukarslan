@@ -40,19 +40,16 @@
 
 ## Connect With Me
 <p align="left">
-    <a
-      href="https://github.com/zehragulbuyukarslan/">
+    <a href="https://github.com/zehragulbuyukarslan/">
       <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/svg/github.svg" alt="GitHub" width="110" height="35"/>
     <a/>
-      <br/>
-    <a
-      href="https://www.linkedin.com/in/zehragulbuyukarslan/">
+<br/>
+    <a href="https://www.linkedin.com/in/zehragulbuyukarslan/">
       <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/png/linkedIn.png" alt="LinkedIn" width="110"/>
     <a/>
-    <br/>
-    <a
-      href="https://zehragulbuyukarslan.medium.com/">
-     <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/png/medium1.png" alt="Medium" width="110" height="20"/>
+<br/>
+    <a href="https://zehragulbuyukarslan.medium.com/">
+      <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/png/medium1.png" alt="Medium" width="110" height="20"/>
     <a/>
     
 </p>
@@ -61,9 +58,8 @@
 
 ### Hey! If you're looking for a developer for your next project, you can find me on:
 
-<a
-      href="https://www.freelancer.com/u/zehragulb" target="_blank">
-      <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/jpg/freelancer2.jpg" alt="freelancer" height="35" width="110" />
-    <a/>
+<a href="https://www.freelancer.com/u/zehragulb" target="_blank">
+    <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/jpg/freelancer2.jpg" alt="freelancer" height="35" width="110" />
+<a/>
 
 ---
