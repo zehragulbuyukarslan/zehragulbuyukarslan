@@ -1,17 +1,11 @@
 <h2 align="left">Hey, this is Zehra! Welcome to my GitHub!  <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/pink-sakura.gif" width="30" height="30"/> </h2>
 
-<h2> Interests </h2>  <img align="right" src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/octacat-github.gif" alt="github" width="150" height="150"/>
+<h2> My Works on... </h2>  <img align="right" src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/octacat-github.gif" alt="github" width="150" height="150"/>
 
-- Artificial Intelligence
-- Blockchain
-- Data analysis
-- Web/mobile development.
-
-## Improving
-- Machine learnings
-- Smart contracts
-- Data visualization.
-- I’m open to collaborate on open source, hackathons, and freelance projects.
+- Artificial Intelligence: Machine learning
+- Blockchain: Smart contracts
+- Data analysis: Data visualization.
+- Web/mobile development: Frontend
 
 ## Technologies
 
@@ -51,6 +45,8 @@
     <a href="https://zehragulbuyukarslan.medium.com/">
       <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/png/medium1.png" alt="Medium" width="110" height="20"/>
     <a/>
+      
+- I’m open to collaborate on open source, hackathons, and freelance projects.
     
 </p>
 
