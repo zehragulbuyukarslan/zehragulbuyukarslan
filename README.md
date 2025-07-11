@@ -26,7 +26,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=zehragulbuyukarslan&show_icons=true&theme=radical"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zehragulbuyukarslan&theme=radical" alt="streak stats"/>   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehragulbuyukarslan&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehragulbuyukarslan&layout=compact&theme=radical"/>
 
   
 </p>
