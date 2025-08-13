@@ -38,7 +38,7 @@ You can find all my public code snippets and notes here: [View My Gists](https:/
 ## Connect With Me
 <p align="left">
     <a href="https://github.com/zehragulbuyukarslan/">
-      <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/svg/github.svg" alt="GitHub" width="110" height="35"/>
+      <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/svg/github.svg" alt="GitHub" height="35"/>
     <a/>&nbsp&nbsp&nbsp
     <a href="https://www.linkedin.com/in/zehragulbuyukarslan/" style="margin-right: 20">
       <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/png/linkedIn.png" alt="LinkedIn" height="35" style="vertical-align:middle border:none"/>
