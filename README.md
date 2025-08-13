@@ -8,7 +8,7 @@
 - Web/mobile development: Frontend
 
 ## Gists of mine
-You can find all my public code snippets and notes here: [View My Gists](https://www.linkedin.com/in/zehragulbuyukarslan/)
+You can find all my public code snippets and notes here: [View My Gists](https://gist.github.com/zehragulbuyukarslan)
 
 ## Technologies
 
