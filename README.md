@@ -7,6 +7,9 @@
 - Data analysis: Data visualization.
 - Web/mobile development: Frontend
 
+## Gists of mine
+You can find all my public code snippets and notes here: [View My Gists](https://www.linkedin.com/in/zehragulbuyukarslan/)
+
 ## Technologies
 
 <p align="left">
