@@ -39,24 +39,19 @@ You can find all my public code snippets and notes here: [View My Gists](https:/
 <p align="left">
     <a href="https://github.com/zehragulbuyukarslan/">
       <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/svg/github.svg" alt="GitHub" height="35"/>
-    <a/>&nbsp&nbsp&nbsp
+    <a/>&nbsp&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/zehragulbuyukarslan/" style="margin-right: 20">
-      <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/png/linkedIn.png" alt="LinkedIn" height="35" style="vertical-align:middle border:none"/>
-    <a/>&nbsp&nbsp&nbsp
+      <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/png/linkedIn.png" alt="LinkedIn" height="35" style="vertical-align:middle; border:none;"/>
+    <a/>&nbsp&nbsp;&nbsp;
     <a href="https://zehragulbuyukarslan.medium.com/" style="margin-right: 20">
-      <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/png/medium1.png" alt="Medium" height="35" style="vertical-align:middle border:none"/>
+      <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/png/medium1.png" alt="Medium" height="35" style="vertical-align:middle; border:none;"/>
     <a/>
       
 - I’m open to collaborate on open source, hackathons, and freelance projects.
-    
+
+
+- **If you're looking for a developer for your next project, you can find me on:** &nbsp;&nbsp; <a href="https://www.freelancer.com/u/zehragulb" target="_blank"><img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/jpg/freelancer2.jpg" alt="freelancer" height="35" width="110"/><a/>
+
 </p>
-
----
-
-### Hey! If you're looking for a developer for your next project, you can find me on:
-
-<a href="https://www.freelancer.com/u/zehragulb" target="_blank">
-    <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/jpg/freelancer2.jpg" alt="freelancer" height="35" width="110" />
-<a/>
 
 ---
