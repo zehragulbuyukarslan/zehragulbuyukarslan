@@ -39,14 +39,12 @@ You can find all my public code snippets and notes here: [View My Gists](https:/
 <p align="left">
     <a href="https://github.com/zehragulbuyukarslan/">
       <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/svg/github.svg" alt="GitHub" width="110" height="35"/>
-    <a/>
-<br/>
-    <a href="https://www.linkedin.com/in/zehragulbuyukarslan/">
-      <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/png/linkedIn.png" alt="LinkedIn" width="110"/>
-    <a/>
-<br/>
-    <a href="https://zehragulbuyukarslan.medium.com/">
-      <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/png/medium1.png" alt="Medium" width="110" height="20"/>
+    <a/>&nbsp&nbsp&nbsp
+    <a href="https://www.linkedin.com/in/zehragulbuyukarslan/" style="margin-right: 20">
+      <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/png/linkedIn.png" alt="LinkedIn" height="35" style="vertical-align:middle border:none"/>
+    <a/>&nbsp&nbsp&nbsp
+    <a href="https://zehragulbuyukarslan.medium.com/" style="margin-right: 20">
+      <img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/png/medium1.png" alt="Medium" height="35" style="vertical-align:middle border:none"/>
     <a/>
       
 - I’m open to collaborate on open source, hackathons, and freelance projects.
