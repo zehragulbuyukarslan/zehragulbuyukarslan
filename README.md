@@ -3,9 +3,9 @@
 <h2> My Works on... </h2>  <img align="right" src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/octacat-github.gif" alt="github" width="150" height="150"/>
 
 - Artificial Intelligence: Machine learning
-- Blockchain: Smart contracts
 - Data analysis: Data visualization.
 - Web/mobile development: Frontend
+- Blockchain: Smart contracts
 
 ## Gists of mine
 You can find all my public code snippets and notes here: [View My Gists](https://gist.github.com/zehragulbuyukarslan)
@@ -14,11 +14,11 @@ You can find all my public code snippets and notes here: [View My Gists](https:/
 
 <p align="left">
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/svg/github-black.svg" alt="github" width="40" height="40"/>
-  <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/png/database.png" alt=sql width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" alt="sqldeveloper" width="40" height="40">
 
 </p>
 
