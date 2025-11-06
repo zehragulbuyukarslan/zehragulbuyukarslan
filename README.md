@@ -35,8 +35,9 @@ You can find all my public code snippets and notes here: [View My Gists](https:/
 ## Connect With Me
 
 - Github: <a href="https://github.com/zehragulbuyukarslan/">Link-here<a/>
-- Linkedin: <a href="https://www.linkedin.com/in/zehragulbuyukarslan/" style="margin-right: 20">Link-here<a/>
-- Medium: <a href="https://zehragulbuyukarslan.medium.com/" style="margin-right: 20">Link-here<a/>
+- Linkedin: <a href="https://www.linkedin.com/in/zehragulbuyukarslan/">Link-here<a/>
+- Medium: <a href="https://zehragulbuyukarslan.medium.com/">Link-here<a/>
+- Instagram: <a href="https://www.instagram.com/zehragul.studio/">Link here<a/>
 
 I’m open to collaborate on open source, hackathons, and freelance projects.
 
