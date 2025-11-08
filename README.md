@@ -1,4 +1,4 @@
-<h2 align="left">Hey, this is Zehra! Welcome to my GitHub!  <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/pink-sakura.gif" width="30" height="30"/> </h2>
+<img src="https://github.com/zehragulbuyukarslan/zehragulbuyukarslan/blob/main/content/banner-github.jpg"/>
 
 <h2> My Works on... </h2>  <img align="right" src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/octacat-github.gif" alt="github" width="150" height="150"/>
 
@@ -7,8 +7,8 @@
 - Web/mobile development: Frontend
 - Blockchain: Smart contracts
 
-## Gists of mine
-You can find all my public code snippets and notes here: [View My Gists](https://gist.github.com/zehragulbuyukarslan)
+## Gists of mine 
+You can find all my public code snippets and notes here: [View─My─Gists](https://gist.github.com/zehragulbuyukarslan)
 
 ## Technologies
 
@@ -33,7 +33,7 @@ You can find all my public code snippets and notes here: [View My Gists](https:/
   
 </p>
 
-## Connect With Me
+## <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/pink-sakura.gif" width="30" height="30"/> Connect With Me 
 
 - GitHub: <a href="https://github.com/zehragulbuyukarslan/">Link-here<a/>
 - Linkedin: <a href="https://www.linkedin.com/in/zehragulbuyukarslan/">Link-here<a/>
