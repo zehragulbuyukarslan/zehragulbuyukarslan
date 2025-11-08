@@ -35,10 +35,10 @@ You can find all my public code snippets and notes here: [View─My─Gists](htt
 
 ## <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/pink-sakura.gif" width="30" height="30"/> Connect With Me 
 
-- GitHub: <a href="https://github.com/zehragulbuyukarslan/">Link-here<a/>
-- Linkedin: <a href="https://www.linkedin.com/in/zehragulbuyukarslan/">Link-here<a/>
-- Medium: <a href="https://zehragulbuyukarslan.medium.com/">Link-here<a/>
-- Instagram: <a href="https://www.instagram.com/zehragul.studio/">Link here<a/>
+- GitHub: <a href="https://github.com/zehragulbuyukarslan/">Link─Here<a/>
+- Linkedin: <a href="https://www.linkedin.com/in/zehragulbuyukarslan/">Link─Here<a/>
+- Medium: <a href="https://zehragulbuyukarslan.medium.com/">Link─Here<a/>
+- Instagram: <a href="https://www.instagram.com/zehragul.studio/">Link─Here<a/>
 
 I’m open to collaborate on open source, hackathons, and freelance projects.
 
@@ -47,5 +47,3 @@ I’m open to collaborate on open source, hackathons, and freelance projects.
 **If you're looking for a developer for your next project, you can find me on:** &nbsp;&nbsp; <a href="https://www.freelancer.com/u/zehragulb" target="_blank"><img src="https://github.com/zehragulbuyukarslan/logo_collection/blob/main/CombinationMark/jpg/freelancer2.jpg" alt="freelancer" height="35" width="110"/><a/>
 
 </p>
-
----
