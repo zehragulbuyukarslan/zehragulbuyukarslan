@@ -26,12 +26,6 @@ You can find all my public code snippets and notes here: [View─My─Gists](htt
 
 ## 📊 GitHub Statistics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=zehragulbuyukarslan&show_icons=true&theme=radical"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehragulbuyukarslan&layout=compact&theme=radical"/>
-  
-</p>
 
 ## <img src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/pink-sakura.gif" width="30" height="30"/> Connect With Me 
 
