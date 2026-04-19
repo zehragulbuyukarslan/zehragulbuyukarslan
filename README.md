@@ -7,6 +7,10 @@
 - Web/mobile development: Frontend
 - Blockchain: Smart contracts
 
+
+## Portfolio
+My Portfolio WebSite: https://zehragulbuyukarslan.github.io/portfolio/
+
 ## Gists of mine 
 You can find all my public code snippets and notes here: [View─My─Gists](https://gist.github.com/zehragulbuyukarslan)
 
@@ -20,6 +24,8 @@ You can find all my public code snippets and notes here: [View─My─Gists](htt
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" alt="sqldeveloper" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
 
 </p>
 
