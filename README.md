@@ -1,4 +1,4 @@
-<img src="https://github.com/zehragulbuyukarslan/zehragulbuyukarslan/blob/main/content/new-banner.png"/>
+<img src="https://github.com/zehragulbuyukarslan/zehragulbuyukarslan/blob/main/content/banner.png"/>
 
 <h2> My Works on... </h2>  <img align="right" src="https://github.com/zehragulbuyukarslan/icon_collection/blob/main/gifs/octacat-github.gif" alt="github" width="150" height="150"/>
 
